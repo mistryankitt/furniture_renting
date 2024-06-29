@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "28176219220",
+    "firebase_url": "https://furniturerent1-default-rtdb.firebaseio.com",
+    "project_id": "furniturerent1",
+    "storage_bucket": "furniturerent1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28176219220:android:3a71dd0d60dd5e3d22c1c1",
+        "android_client_info": {
+          "package_name": "com.ankit.fr.gurniturerenting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqgLqt5OXdsPqeu90gFIreEV7FCjwSHaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
